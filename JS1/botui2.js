@@ -4188,7 +4188,7 @@ function bot_ui_ini() {
     thirdpart = function() {
         botui.message.add({
             delay: 1e3,
-            content: "OY，它代表是我的姓氏的缩写"
+            content: "CHY，它代表是我的姓氏的缩写"
         }).then(function() {
             botui.action.button({
                 delay: 1500,
