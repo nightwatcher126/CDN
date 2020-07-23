@@ -4225,7 +4225,7 @@ function bot_ui_ini() {
     fifthpart = function() {
         botui.message.add({
             delay: 1e3,
-            content: "emm,csdn,github,都是OY6090哦"
+            content: "qq 809071711 欢迎骚扰"
         }).then(function() {
             botui.message.add({
                 delay: 1600,
